@@ -30,29 +30,22 @@
 
 ## 💰 套餐额度折算（社区实测）
 
-> 以下为 Codex 用户根据实际 Token 与 Usage 百分比反推的 API 等价价值，并非 OpenAI 官方承诺的美元余额。不同模型、缓存比例、速度模式和任务会影响结果，不能统一换算成套餐内固定的 Credits。
+| 套餐 | 订阅价格 | API 等价价值 / 周（美元，折算） | API 等价价值 / 月（美元） |
+| --- | --- | --- | --- |
+| Plus | $20/月 | 37–49 | 162–211 |
+| Pro $100 | $100/月 | 243–305 | 1,055–1,322 |
+| Pro $200 | $200/月 | 481–669 | 2,084–2,897 |
+| Pro $500 | $500/月 | 1,243–1,605 | 5,386–6,955 |
 
-| 套餐 | 订阅价格 | 实测依据 | API 等价价值 / 周 | API 等价价值 / 月* |
-| --- | --- | --- | --- | --- |
-| Plus | $20/月 | Wokey：10 个账号，10 月 1–8 日，网关流量样本 | 中位数 ≈ $92；中间一半账号 $77–107 | 中位数 ≈ $399；对应 $334–464 |
-| Pro $100 | $100/月 | InventiveHQ：同一用户 2 个窗口，三台机器日志合并，Sol 为主 | ≈ $330–380 | ≈ $1,430–1,650 |
-| Pro $100（另一组样本） | $100/月 | FinOps LLM：9 月 27 日–10 月 8 日，6 个用满的窗口，模型混用 | 中位数 ≈ $175；窗口范围 $100–234 | 中位数 ≈ $758；对应 $433–1,014 |
-| Pro $200（新额度） | $200/月 | InventiveHQ：2 个窗口，包含未用满窗口的外推，Sol 为主 | ≈ $640–670 | ≈ $2,770–2,900 |
-| Pro $200（旧额度过渡期） | $200/月 | 与新订阅分开，过渡状态以账号通知为准 | 本次不列统一数值 | 本次不列统一数值 |
-| Pro $500 | $500/月 | 本次未取得足够可核对的一手周额度数据 | 暂不填写固定数值 | 暂不填写固定数值 |
+<sub>按实测 Token 与 Usage 百分比反推 API 等价价值，范围取 GPT-6.1 Sol / GPT-6 Astra 两种模型；周值按月值 ÷（52/12）折算取整，Pro $200 为新额度，均为测试条件下的估值。</sub>
 
-*月价值按周价值 × 52 ÷ 12（约 4.33）作平均月折算，取近似数；不等于每个自然月或账单周期实际发放的额度。假设每周充分使用，不含额外赠送、购买或重置。表中各组任务条件不同，不能直接相除得出套餐倍率。*
+实测来源
+- [InventiveHQ 原始测量](https://inventivehq.com/blog/codex-subscription-usage-measured)
+- [FinOps LLM 原始测量](https://finopsllm.com/research/chatgpt-pro-100-real-codex-multiplier)
+- [Wokey 原始测量](https://wokey.ai/codex-usage-limits?lang=zh)
+- [SemiAnalysis 控制实验](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x)
 
-> ⚠️ 注意：这里的“$”是如果把同等 Token 用量改用 API 支付时的大致成本。由于测试结果受多种因素影响，存在一定波动范围。Pro $100 的两组结果差别较大，不能只取较高的一组当作所有账号的周限额，也不能仅凭 API 等价价值下降断定实际 Token 额度减少。
-
-实测来源与适用范围：
-
-- [InventiveHQ 原始测量](https://inventivehq.com/blog/codex-subscription-usage-measured)：公布逐窗口数据和统计方法，覆盖同一用户三台机器；适合参考 Sol 为主的工作流，但样本少。文中的 Plus、旧 Pro $200 和 Pro $500 数字是推算，本表没有把它们当成实测。
-- [FinOps LLM 原始测量](https://finopsllm.com/research/chatgpt-pro-100-real-codex-multiplier)：6 个用满的 Pro $100 窗口；Luna 占 Token 的比例较高，任务与上一组不同，且使用过额外重置。这里比较每个完整窗口，不把重置收益算作正常每周权益。
-- [Wokey 原始测量](https://wokey.ai/codex-usage-limits?lang=zh)：Plus 样本有日期、账号数和中间一半账号的范围；来源是商业网关运营方，不能视为独立审计或所有普通账号的代表。
-- [SemiAnalysis 控制实验](https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x)（10 月 5 日）：分别测输入、缓存、输出的额度消耗，方法更适合解释模型间差异；其 Astra 工作流下，新 Pro $200 约为 $2,897/月 API 等价价值。报告指出，调整前购买的 $200 档可保留旧额度至 10 月 29 日；这是第三方报告，个人过渡状态仍以账号通知为准。
-
-> 官方说明，API 价格和订阅内用量并不是同一套规则；Work 与 Codex 共享额度。本节只作实测参考，不能据此保证可用消息数、任务数或美元余额。[官方用量说明](https://learn.chatgpt.com/docs/pricing)
+> 官方的 API 需要单独申请，计费与套餐内的额度相互独立 ；套餐内 Work 与 Codex 共享额度，网页端chat不消耗额度。[官方用量说明](https://learn.chatgpt.com/docs/pricing)
 
 ## 🧠 可用模型对比
 
