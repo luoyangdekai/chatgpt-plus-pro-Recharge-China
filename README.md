@@ -10,7 +10,7 @@
 | **GPT Plus** | **135 元 / 月** |
 | **GPT Pro 100** | **655 元 / 月** |
 | **GPT Pro 200** | **1140 元 / 月** |
-| **GPT Pro 500** | **3400 元 / 月** |
+| **GPT Pro 500** | **3300 元 / 月** |
 
 关于如何选择套餐：[点击查看 GPT 各套餐权益完整对比](https://github.com/luoyangdekai/chatgpt-plus-pro-Recharge-China/blob/main/GPT-Plans-Comparison.md)
 
