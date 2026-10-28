@@ -1,5 +1,7 @@
 ## Grok 各套餐权益对比｜2026 年 10 月 28日最新版
 
+Grok快速充值：[https://wzyp.cn/shop/3F5YOW2H](https://wzyp.cn/shop/3F5YOW2H)
+
 **新版 Grok 采用四合一订阅体系**，一个会员可同时获得以下产品的对应权益：
 
 - **Grok**：AI 聊天、语音、图片及视频生成。
