@@ -30,11 +30,7 @@
 
 与旧版 SuperGrok Lite、SuperGrok、SuperGrok Plus、SuperGrok Heavy 相比，新版拥有更高的额度。
 
-### ✅ 四、一句话教你选套餐
 
-**轻度聊天、画图选 Plus；日常完整体验选 Premium；高频使用选 Super；极高强度使用选 Ultra。**
-
-如果主要想体验 Grok 的完整 AI 功能，**Premium 是比较均衡的选择**；如果经常制作 AI 视频、运行自动化任务，则可以重点考虑 Super 或 Ultra。
 
 ---
 
