@@ -1,8 +1,9 @@
 ## Grok 各套餐权益对比｜2026 年 10 月 28日最新版
 
 
-> ### 💳 Grok 快速订阅：
-> 👉 **[https://wzyp.cn/shop/3F5YOW2H](https://wzyp.cn/shop/3F5YOW2H)**
+---
+
+> ### 💳 Grok 快速订阅： **[https://wzyp.cn/shop/3F5YOW2H](https://wzyp.cn/shop/3F5YOW2H)**
 > **支持微信 / 支付宝支付，无需海外银行卡**
 
 
