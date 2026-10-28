@@ -31,6 +31,9 @@ CDK 购买网站：[https://wzyp.cn/shop/3F5YOW2H](https://wzyp.cn/shop/3F5YOW2H
 
 流程与GPT完全相同，在[CDK购买网站](https://wzyp.cn/shop/3F5YOW2H)中选择对应的分类，按照使用说明完成充值即可。
 
+**Grok 套餐怎么选？**  [点击查看 Grok 各档位权益完整对比](https://github.com/luoyangdekai/chatgpt-plus-pro-Recharge-China/blob/main/Grok-Plans-Comparison.md)
+
+
 
 ---
 
