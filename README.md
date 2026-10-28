@@ -46,7 +46,7 @@ CDK 购买网站：[https://wzyp.cn/shop/3F5YOW2H](https://wzyp.cn/shop/3F5YOW2H
 <img width="1794" height="877" alt="63093761-d6f2-4785-b79e-b328064eeb43" src="https://github.com/user-attachments/assets/3d129fcd-aa5e-4041-8f49-336fd0eb6120" />
 
 
-> #### [点击这里查看完整图文充值教程](https://ycn2vrhyxmpv.feishu.cn/wiki/Vu56wIVepiwCUukkWnDcdfIvnJd?from=from_copylink)
+> #### [点击这里查看完整图文充值教程](https://share.note.youdao.com/s/KfTNNMt4)
 
 
 
