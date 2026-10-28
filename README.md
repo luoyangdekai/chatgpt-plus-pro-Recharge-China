@@ -29,9 +29,8 @@ CDK 购买网站：[https://wzyp.cn/shop/3F5YOW2H](https://wzyp.cn/shop/3F5YOW2H
 
 ### 🤖 Grok/Claude/Gemini 会员充值
 
-流程与GPT完全相同，在[CDK购买网站](https://wzyp.cn/shop/3F5YOW2H)中获取即可充值。
+流程与GPT完全相同，在[CDK购买网站](https://wzyp.cn/shop/3F5YOW2H)中选择对应的分类，按照使用说明完成充值即可。
 
-进入网站选择对应的分类，按照使用说明完成充值即可。
 
 ---
 
