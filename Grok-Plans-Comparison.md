@@ -4,7 +4,7 @@
 ---
 
 > ### 💳 Grok 快速订阅： **[https://wzyp.cn/shop/3F5YOW2H](https://wzyp.cn/shop/3F5YOW2H)**
-> **支持微信 / 支付宝支付，无需海外银行卡**
+> 选择Grok分类，**支持微信 / 支付宝支付，无需海外银行卡**
 
 ---
 
