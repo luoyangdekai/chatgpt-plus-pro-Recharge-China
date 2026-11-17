@@ -19,7 +19,7 @@
 
 *价格为 OpenAI 官方公开参考价格，实际结算可能因国家/地区、税费、币种、订阅渠道或促销而不同。Go 的 $8/月为美元参考价。Business 通常至少需要 2 个付费席位。*
 
-> 原文的“Pro 5× / Pro 20×”改为按月费区分。当前官方价格页不再给出统一的 Plus 倍数，不能把旧称直接当作今天的额度承诺。价格及使用规则见 [OpenAI 官方资料](https://learn.chatgpt.com/docs/pricing)，Ultrafast 见 [速度说明](https://learn.chatgpt.com/docs/agent-configuration/speed)。
+> 价格及使用规则见 [OpenAI 官方资料](https://learn.chatgpt.com/docs/pricing)，Ultrafast 见 [速度说明](https://learn.chatgpt.com/docs/agent-configuration/speed)。
 
 ---
 
