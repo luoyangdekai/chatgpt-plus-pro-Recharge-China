@@ -56,10 +56,6 @@ ChatGPT 在 网页端聊天（Chat）、ChatGPT Work 和 Codex 中提供的模�
 | Pro $500 | GPT-6 Pro<br>GPT-5.6 Sol Pro<br>GPT-5.6 Sol | 同 Plus；支持 Ultrafast* | 同 Plus；支持 Ultrafast* |
 
 
-> GPT-6.1 Sol 正在逐步开放中，具体是否已经出现以账号实际显示为准。GPT-6.1 Sol、GPT-6 Sol、GPT-6 Luna 在 ChatGPT 中用于 Work / Codex，不用于 Chat。GPT-5.6 Sol、Terra、Luna 在过渡期间仍保留。[官方模型说明](https://learn.chatgpt.com/docs/models)
->
-> † Chat 一列是 2026-9-9 原文记录，不是本次核实后的当前模型清单。
->
 > *Ultrafast 是速度模式，支持 Astra 和 GPT-6.1 Sol；可用推理档位还取决于模型、套餐、客户端及工作区设置。*
 
 ---
