@@ -50,10 +50,11 @@ ChatGPT 在 网页端聊天（Chat）、ChatGPT Work 和 Codex 中提供的模�
 | --- | --- | --- | --- |
 | Free | 原文：GPT-5.6 Luna† | 桌面端 GPT-6 Luna，逐步开放；其他入口以账号为准 | 桌面端 GPT-6 Luna，逐步开放 |
 | Go | 原文：GPT-5.6 Luna† | 桌面端 GPT-6 Luna，逐步开放；其他入口以账号为准 | 桌面端 GPT-6 Luna，逐步开放 |
-| Plus | 原文：GPT-5.6 Sol† | GPT-6 Astra<br>GPT-6.1 Sol<br>GPT-6 Sol<br>GPT-6 Luna | GPT-6 Astra<br>GPT-6.1 Sol<br>GPT-6 Sol<br>GPT-6 Luna |
+| Plus | 原文：GPT-5.6 Sol† | GPT-6 Astra<br>GPT-6.1 Sol<br>GPT-6.1 Terra<br>GPT-6 Sol<br>GPT-6 Luna | GPT-6 Astra<br>GPT-6.1 Sol<br>GPT-6.1 Terra<br>GPT-6 Sol<br>GPT-6 Luna |
 | Pro $100 | 原文：GPT-6 Pro<br>GPT-5.6 Sol Pro<br>GPT-5.6 Sol† | 同 Plus | 同 Plus |
 | Pro $200 | 原文：GPT-6 Pro<br>GPT-5.6 Sol Pro<br>GPT-5.6 Sol† | 同 Plus | 同 Plus |
-| Pro $500 | 当前 Chat 模型未核实 | 同 Plus；支持 Ultrafast* | 同 Plus；支持 Ultrafast* |
+| Pro $500 | GPT-6 Pro<br>GPT-5.6 Sol Pro<br>GPT-5.6 Sol | 同 Plus；支持 Ultrafast* | 同 Plus；支持 Ultrafast* |
+
 
 > GPT-6.1 Sol 正在逐步开放中，具体是否已经出现以账号实际显示为准。GPT-6.1 Sol、GPT-6 Sol、GPT-6 Luna 在 ChatGPT 中用于 Work / Codex，不用于 Chat。GPT-5.6 Sol、Terra、Luna 在过渡期间仍保留。[官方模型说明](https://learn.chatgpt.com/docs/models)
 >
